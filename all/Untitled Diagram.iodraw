@@ -106,6 +106,15 @@
         <mxCell id="idLY-p9wJzIVcCWpnv97-40" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.pushbuttonMakeSwitch2;elSwitchState=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="1030" width="75" height="53" as="geometry" />
         </mxCell>
+        <mxCell id="idLY-p9wJzIVcCWpnv97-41" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.pushbuttonMakeSwitch2;elSwitchState=2;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1100" width="75" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="idLY-p9wJzIVcCWpnv97-42" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.pushbuttonTwoCircuitSwitch2;elSwitchState=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="960" width="75" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="idLY-p9wJzIVcCWpnv97-43" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.pushbuttonTwoCircuitSwitch2;elSwitchState=1;" vertex="1" parent="1">
+          <mxGeometry x="535" y="1083" width="75" height="73" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
