@@ -121,6 +121,9 @@
         <mxCell id="idLY-p9wJzIVcCWpnv97-45" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.springReturn3;elSwitchState=off;" vertex="1" parent="1">
           <mxGeometry x="660" y="1044" width="75" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="idLY-p9wJzIVcCWpnv97-46" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.timeDelaySwitch2;elSwitchState=off;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1102" width="75" height="36" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
