@@ -37,6 +37,12 @@
         <mxCell id="idLY-p9wJzIVcCWpnv97-17" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.liquidLevelActuatedSwitch;aspect=fixed;elSwitchState=off;" vertex="1" parent="1">
           <mxGeometry x="340" y="760" width="75" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="idLY-p9wJzIVcCWpnv97-18" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.liquidLevelActuatedSwitch2;aspect=fixed;elSwitchState=on;" vertex="1" parent="1">
+          <mxGeometry x="445" y="758" width="75" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="idLY-p9wJzIVcCWpnv97-19" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.fuse2;aspect=fixed;elSwitchState=off;" vertex="1" parent="1">
+          <mxGeometry x="520" y="620" width="75" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
