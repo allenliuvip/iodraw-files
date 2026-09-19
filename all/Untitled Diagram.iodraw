@@ -43,6 +43,15 @@
         <mxCell id="idLY-p9wJzIVcCWpnv97-19" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.fuse2;aspect=fixed;elSwitchState=off;" vertex="1" parent="1">
           <mxGeometry x="520" y="620" width="75" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="idLY-p9wJzIVcCWpnv97-20" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.liquidLevelActuatedSwitch2;aspect=fixed;elSwitchState=off;" vertex="1" parent="1">
+          <mxGeometry x="520" y="620" width="75" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="idLY-p9wJzIVcCWpnv97-21" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.liquidLevelActuatedSwitch2;aspect=fixed;elSwitchState=off;" vertex="1" parent="1">
+          <mxGeometry x="535" y="760" width="75" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="idLY-p9wJzIVcCWpnv97-22" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.pressureActuatedSwitch;aspect=fixed;elSwitchState=off;" vertex="1" parent="1">
+          <mxGeometry x="645" y="740" width="75" height="31" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
