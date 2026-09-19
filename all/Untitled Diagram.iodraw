@@ -19,6 +19,15 @@
         <mxCell id="idLY-p9wJzIVcCWpnv97-11" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=on;" vertex="1" parent="1">
           <mxGeometry x="420" y="600" width="75" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="idLY-p9wJzIVcCWpnv97-12" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;" vertex="1" parent="1">
+          <mxGeometry x="430" y="640" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="idLY-p9wJzIVcCWpnv97-13" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.switchDisconnector;aspect=fixed;elSwitchState=on;" vertex="1" parent="1">
+          <mxGeometry x="345" y="690" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="idLY-p9wJzIVcCWpnv97-14" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.switchDisconnector;aspect=fixed;elSwitchState=off;" vertex="1" parent="1">
+          <mxGeometry x="460" y="710" width="75" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
