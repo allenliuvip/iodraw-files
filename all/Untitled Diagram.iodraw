@@ -5,7 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="idLY-p9wJzIVcCWpnv97-7" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.twoWaySwitch;aspect=fixed;elSwitchState=2;" vertex="1" parent="1">
-          <mxGeometry x="520" y="620" width="75" height="26" as="geometry" />
+          <mxGeometry x="320" y="530" width="75" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="idLY-p9wJzIVcCWpnv97-8" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.pushbutton;aspect=fixed;elSwitchState=on;" vertex="1" parent="1">
+          <mxGeometry x="450" y="533" width="75" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
