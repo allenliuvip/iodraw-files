@@ -1,145 +1,16 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="7e0a89b8-554c-2b80-1dc8-d5c74ca68de4">
-    <mxGraphModel dx="819" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="-14" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="idLY-p9wJzIVcCWpnv97-7" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.twoWaySwitch;aspect=fixed;elSwitchState=2;" vertex="1" parent="1">
-          <mxGeometry x="320" y="530" width="75" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-8" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.pushbutton;aspect=fixed;elSwitchState=on;" vertex="1" parent="1">
-          <mxGeometry x="450" y="533" width="75" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-9" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.pushbutton;aspect=fixed;elSwitchState=off;" vertex="1" parent="1">
-          <mxGeometry x="310" y="600" width="75" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-10" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.pushbutton;aspect=fixed;elSwitchState=on;" vertex="1" parent="1">
-          <mxGeometry x="520" y="620" width="75" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-11" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=on;" vertex="1" parent="1">
-          <mxGeometry x="420" y="600" width="75" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-12" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;" vertex="1" parent="1">
-          <mxGeometry x="430" y="640" width="75" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-13" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.switchDisconnector;aspect=fixed;elSwitchState=on;" vertex="1" parent="1">
-          <mxGeometry x="345" y="690" width="75" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-14" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.switchDisconnector;aspect=fixed;elSwitchState=off;" vertex="1" parent="1">
-          <mxGeometry x="460" y="710" width="75" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-15" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.fuse2;aspect=fixed;elSwitchState=on;" vertex="1" parent="1">
-          <mxGeometry x="590" y="670" width="75" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-16" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.liquidLevelActuatedSwitch;aspect=fixed;elSwitchState=on;" vertex="1" parent="1">
-          <mxGeometry x="720" y="680" width="75" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-17" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.liquidLevelActuatedSwitch;aspect=fixed;elSwitchState=off;" vertex="1" parent="1">
-          <mxGeometry x="340" y="760" width="75" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-18" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.liquidLevelActuatedSwitch2;aspect=fixed;elSwitchState=on;" vertex="1" parent="1">
-          <mxGeometry x="445" y="758" width="75" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-19" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.fuse2;aspect=fixed;elSwitchState=off;" vertex="1" parent="1">
-          <mxGeometry x="520" y="620" width="75" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-20" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.liquidLevelActuatedSwitch2;aspect=fixed;elSwitchState=off;" vertex="1" parent="1">
-          <mxGeometry x="520" y="620" width="75" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-21" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.liquidLevelActuatedSwitch2;aspect=fixed;elSwitchState=off;" vertex="1" parent="1">
-          <mxGeometry x="535" y="760" width="75" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-22" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.pressureActuatedSwitch;aspect=fixed;elSwitchState=off;" vertex="1" parent="1">
-          <mxGeometry x="645" y="740" width="75" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-23" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.limitSwitch2;elSwitchState=on;" vertex="1" parent="1">
-          <mxGeometry x="645" y="514" width="75" height="19" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-24" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.limitSwitch2;elSwitchState=on;" vertex="1" parent="1">
-          <mxGeometry x="520" y="620" width="75" height="19" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-25" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.limitSwitch2;elSwitchState=off;" vertex="1" parent="1">
-          <mxGeometry x="520" y="620" width="75" height="19" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-26" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.limitSwitch2;elSwitchState=off;" vertex="1" parent="1">
-          <mxGeometry x="660" y="556" width="75" height="19" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-27" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.limitSwitch;elSwitchState=on;" vertex="1" parent="1">
-          <mxGeometry x="520" y="620" width="75" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-28" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.dpdt3;elSwitchState=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="689" width="58" height="62" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-29" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.twoWayContact2;elSwitchState=2;" vertex="1" parent="1">
-          <mxGeometry x="770" y="741" width="75" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-30" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.dpst2;elSwitchState=on;" vertex="1" parent="1">
-          <mxGeometry x="320" y="810" width="75" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-31" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.dpst2;elSwitchState=off;" vertex="1" parent="1">
-          <mxGeometry x="480" y="830" width="75" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-32" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.passingMakeContact2;elSwitchState=on;" vertex="1" parent="1">
-          <mxGeometry x="610" y="818" width="75" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-33" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.break_contact;" vertex="1" parent="1">
-          <mxGeometry x="735" y="808" width="75" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-34" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.break_contact;" vertex="1" parent="1">
-          <mxGeometry x="720" y="839" width="75" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-35" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.twoWayContact2;elSwitchState=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="860" width="75" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-36" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.passingMakeContact2;elSwitchState=on;" vertex="1" parent="1">
-          <mxGeometry x="420" y="980" width="75" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-37" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.stay_put;" vertex="1" parent="1">
-          <mxGeometry x="310" y="980" width="75" height="7" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-38" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.dpst2;elSwitchState=on;" vertex="1" parent="1">
-          <mxGeometry x="555" y="948" width="75" height="39" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-39" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.twoPositionSwitch2;elSwitchState=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="880" width="75" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-40" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.pushbuttonMakeSwitch2;elSwitchState=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1030" width="75" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-41" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.pushbuttonMakeSwitch2;elSwitchState=2;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1100" width="75" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-42" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.pushbuttonTwoCircuitSwitch2;elSwitchState=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="960" width="75" height="73" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-43" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.pushbuttonTwoCircuitSwitch2;elSwitchState=1;" vertex="1" parent="1">
-          <mxGeometry x="535" y="1083" width="75" height="73" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-44" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.shortingSelectorSwitch2;elSwitchState=1;" vertex="1" parent="1">
-          <mxGeometry x="345" y="914" width="60" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-45" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.springReturn3;elSwitchState=off;" vertex="1" parent="1">
-          <mxGeometry x="660" y="1044" width="75" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-46" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.timeDelaySwitch2;elSwitchState=off;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1102" width="75" height="36" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-47" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.relay_contacts;" vertex="1" parent="1">
-          <mxGeometry x="473" y="1059" width="30" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-48" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.resonator;" vertex="1" parent="1">
-          <mxGeometry x="685" y="1095" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-49" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.pilot_light;" vertex="1" parent="1">
-          <mxGeometry x="723" y="918" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-50" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.mercury_switch;" vertex="1" parent="1">
+        <mxCell id="idLY-p9wJzIVcCWpnv97-50" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.mercury_switch;" parent="1" vertex="1">
           <mxGeometry x="308" y="1195" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-51" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.mercury_switch_2;" vertex="1" parent="1">
+        <mxCell id="idLY-p9wJzIVcCWpnv97-51" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.mercury_switch_2;" parent="1" vertex="1">
           <mxGeometry x="430" y="1195" width="50" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="idLY-p9wJzIVcCWpnv97-52" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.source;aspect=fixed;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];elSignalType=ac;" vertex="1" parent="1">
+        <mxCell id="idLY-p9wJzIVcCWpnv97-52" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.source;aspect=fixed;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];elSignalType=ac;" parent="1" vertex="1">
           <mxGeometry x="535" y="1210" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
